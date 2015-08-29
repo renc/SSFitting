@@ -1,0 +1,56 @@
+﻿Build started 2015/8/29 17:08:50.
+     1>Project "D:\Temp_Workspace_person\ProgressiveMesh\external\OpenMesh-2.0-RC3\src\OpenMesh\Core\VS2008Core.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\libraries\MeshCourse07-Code\OpenMesh-2.0-RC3\src" /nologo /W3 /WX- /O2 /Oy- /D QT_NO_DEBUG /D NDEBUG /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D _USE_MATH_DEFINES /D NOMINMAX /D QT_THREAD_SUPPORT /D QT_NO_DEBUG /D QT_WEBKIT_LIB /D QT_SCRIPT_LIB /D QT_SQL_LIB /D QT_XML_LIB /D QT_OPENGL_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_CORE_LIB /D NDEBUG /Gm- /EHsc /MD /GS- /Zc:wchar_t- /Zc:forScope /GR /Fo"tmp\Windows_32_Release\\" /Fd".\\" /Gd /TP /analyze- /errorReport:prompt -Zm200 -w34100 -w34189 -Zm200 -w34100 -w34189 -w34100 -w34189 Mesh\ArrayKernel.cc Mesh\BaseKernel.cc Utils\BaseProperty.cc IO\reader\BaseReader.cc IO\writer\BaseWriter.cc IO\BinaryHelper.cc Utils\Endian.cc IO\IOManager.cc IO\reader\OBJReader.cc IO\writer\OBJWriter.cc IO\reader\OFFReader.cc IO\writer\OFFWriter.cc IO\OMFormat.cc IO\reader\OMReader.cc System\omstream.cc IO\writer\OMWriter.cc IO\reader\PLYReader.cc IO\writer\PLYWriter.cc Mesh\PolyConnectivity.cc IO\reader\STLReader.cc IO\writer\STLWriter.cc Mesh\TriConnectivity.cc
+         ArrayKernel.cc
+     1>Mesh\ArrayKernel.cc(42): fatal error C1083: Cannot open include file: 'OpenMesh/Core/Mesh/ArrayKernel.hh': No such file or directory
+         BaseKernel.cc
+     1>Mesh\BaseKernel.cc(42): fatal error C1083: Cannot open include file: 'OpenMesh/Core/Mesh/BaseKernel.hh': No such file or directory
+         BaseProperty.cc
+     1>Utils\BaseProperty.cc(42): fatal error C1083: Cannot open include file: 'OpenMesh/Core/Utils/BaseProperty.hh': No such file or directory
+         BaseReader.cc
+     1>IO\reader\BaseReader.cc(45): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         BaseWriter.cc
+     1>IO\writer\BaseWriter.cc(46): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         BinaryHelper.cc
+     1>IO\BinaryHelper.cc(53): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         Endian.cc
+     1>Utils\Endian.cc(55): fatal error C1083: Cannot open include file: 'OpenMesh/Core/Utils/Endian.hh': No such file or directory
+         IOManager.cc
+     1>IO\IOManager.cc(53): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         OBJReader.cc
+     1>IO\reader\OBJReader.cc(47): fatal error C1083: Cannot open include file: 'OpenMesh/Core/IO/reader/OBJReader.hh': No such file or directory
+         OBJWriter.cc
+     1>IO\writer\OBJWriter.cc(50): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         OFFReader.cc
+     1>IO\reader\OFFReader.cc(49): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         OFFWriter.cc
+     1>IO\writer\OFFWriter.cc(46): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         OMFormat.cc
+     1>IO\OMFormat.cc(51): fatal error C1083: Cannot open include file: 'OpenMesh/Core/IO/OMFormat.hh': No such file or directory
+         OMReader.cc
+     1>IO\reader\OMReader.cc(50): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         omstream.cc
+     1>System\omstream.cc(51): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/omstream.hh': No such file or directory
+         OMWriter.cc
+     1>IO\writer\OMWriter.cc(45): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         PLYReader.cc
+     1>IO\reader\PLYReader.cc(49): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         PLYWriter.cc
+     1>IO\writer\PLYWriter.cc(46): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         PolyConnectivity.cc
+     1>Mesh\PolyConnectivity.cc(43): fatal error C1083: Cannot open include file: 'OpenMesh/Core/Mesh/PolyConnectivity.hh': No such file or directory
+         STLReader.cc
+     1>IO\reader\STLReader.cc(52): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         Generating Code...
+         Compiling...
+         STLWriter.cc
+     1>IO\writer\STLWriter.cc(50): fatal error C1083: Cannot open include file: 'OpenMesh/Core/System/config.h': No such file or directory
+         TriConnectivity.cc
+     1>Mesh\TriConnectivity.cc(45): fatal error C1083: Cannot open include file: 'OpenMesh/Core/Mesh/TriConnectivity.hh': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\Temp_Workspace_person\ProgressiveMesh\external\OpenMesh-2.0-RC3\src\OpenMesh\Core\VS2008Core.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.60

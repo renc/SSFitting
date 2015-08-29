@@ -1,0 +1,5 @@
+<area shape="rect" href="$classOpenMesh_1_1IO_1_1__OBJReader__.html" title="Implementation of the OBJ format reader." alt="" coords="241,5,436,32">
+<area shape="rect" href="$classOpenMesh_1_1IO_1_1__OFFReader__.html" title="Implementation of the OFF format reader." alt="" coords="241,56,436,83">
+<area shape="rect" href="$classOpenMesh_1_1IO_1_1__OMReader__.html" title="Implementation of the OM format reader." alt="" coords="244,107,433,133">
+<area shape="rect" href="$classOpenMesh_1_1IO_1_1__PLYReader__.html" title="Implementation of the PLY format reader." alt="" coords="243,157,435,184">
+<area shape="rect" href="$classOpenMesh_1_1IO_1_1__STLReader__.html" title="Implementation of the STL format reader." alt="" coords="243,208,435,235">

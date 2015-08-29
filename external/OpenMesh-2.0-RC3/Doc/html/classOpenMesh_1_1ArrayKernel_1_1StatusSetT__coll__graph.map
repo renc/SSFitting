@@ -1,0 +1,10 @@
+<area shape="rect" href="$classOpenMesh_1_1ArrayKernel.html" title="Mesh kernel using arrays for mesh item storage." alt="" coords="1008,199,1168,225">
+<area shape="rect" href="$classOpenMesh_1_1BaseKernel.html" title="This class provides the basic property management like adding/removing properties..." alt="" coords="651,72,811,99">
+<area shape="rect" href="$classOpenMesh_1_1PropertyContainer.html" title="A a container for properties." alt="" coords="263,72,457,99">
+<area shape="rect" href="$structOpenMesh_1_1ArrayItems.html" title="Definition of mesh items for use in the ArrayKernel." alt="" coords="653,123,808,149">
+<area shape="rect" href="$structOpenMesh_1_1EPropHandleT.html" title="OpenMesh::EPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="601,173,860,200">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; StatusInfo \&gt;" alt="" coords="220,245,500,272">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="601,224,860,251">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="601,275,860,301">
+<area shape="rect" href="$structOpenMesh_1_1HPropHandleT.html" title="OpenMesh::HPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="601,325,860,352">
+<area shape="rect" href="$classOpenMesh_1_1BaseHandle.html" title="Base class for all handle types." alt="" coords="5,245,168,272">

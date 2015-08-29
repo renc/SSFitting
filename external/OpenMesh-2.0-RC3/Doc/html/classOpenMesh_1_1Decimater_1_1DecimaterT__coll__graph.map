@@ -1,0 +1,9 @@
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; float \&gt;" alt="" coords="619,5,843,32">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; float \&gt;" alt="" coords="253,5,499,32">
+<area shape="rect" href="$classOpenMesh_1_1BaseHandle.html" title="Base class for all handle types." alt="" coords="5,56,168,83">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; HalfedgeHandle \&gt;" alt="" coords="220,56,532,83">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; int \&gt;" alt="" coords="259,107,493,133">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; HalfedgeHandle \&gt;" alt="" coords="585,56,876,83">
+<area shape="rect" href="$classOpenMesh_1_1PolyMesh__ArrayKernelT.html" title="Polygonal mesh based on the ArrayKernel." alt="" coords="587,157,875,184">
+<area shape="rect" href="$classOpenMesh_1_1PolyMeshT.html" title="PolyMesh_ArrayKernel_GeneratorT\&lt;Traits\&gt;::Mesh" alt="" coords="219,157,533,184">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; int \&gt;" alt="" coords="624,107,837,133">

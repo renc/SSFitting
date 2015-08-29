@@ -1,0 +1,48 @@
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; bool \&gt;" alt="" coords="449,56,695,83">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; cog_t \&gt;" alt="" coords="445,132,699,159">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Color \&gt;" alt="" coords="447,208,697,235">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; EdgeData \&gt;" alt="" coords="433,259,711,285">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; FaceData \&gt;" alt="" coords="433,309,711,336">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; float \&gt;" alt="" coords="449,360,695,387">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Geometry::QuadricT\&lt; double \&gt; \&gt;" alt="" coords="372,411,772,437">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; HalfedgeData \&gt;" alt="" coords="423,461,721,488">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; HalfedgeHandle \&gt;" alt="" coords="416,512,728,539">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; int \&gt;" alt="" coords="455,563,689,589">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; level_t \&gt;" alt="" coords="443,613,701,640">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Normal \&gt;" alt="" coords="441,664,703,691">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; NormalType \&gt;" alt="" coords="427,715,717,741">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Point \&gt;" alt="" coords="447,765,697,792">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Scalar \&gt;" alt="" coords="443,816,701,843">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; size_t \&gt;" alt="" coords="444,867,700,893">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; StatusInfo \&gt;" alt="" coords="432,917,712,944">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; std::pair\&lt; typename MeshType::VertexHandle, typename MeshType::VertexHandle \&gt; \&gt;" alt="" coords="216,968,928,995">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; T \&gt;" alt="" coords="457,1019,687,1045">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; TexCoord \&gt;" alt="" coords="435,1069,709,1096">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; TexCoord1D \&gt;" alt="" coords="427,1120,717,1147">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; TexCoord2D \&gt;" alt="" coords="427,1171,717,1197">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; TexCoord3D \&gt;" alt="" coords="427,1221,717,1248">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; TextureIndex \&gt;" alt="" coords="424,1272,720,1299">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; typename Mesh::Normal \&gt;" alt="" coords="391,1323,753,1349">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; typename Mesh::Point \&gt;" alt="" coords="396,1373,748,1400">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; typename mesh_t::Point \&gt;" alt="" coords="391,1424,753,1451">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; typename MeshType::Point \&gt;" alt="" coords="383,1475,761,1501">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; VertexData \&gt;" alt="" coords="429,1525,715,1552">
+<area shape="rect" href="$structOpenMesh_1_1EdgeHandle.html" title="Handle for a edge entity." alt="" coords="491,1576,653,1603">
+<area shape="rect" href="$structOpenMesh_1_1FaceHandle.html" title="Handle for a face entity." alt="" coords="492,1627,652,1653">
+<area shape="rect" href="$structOpenMesh_1_1HalfedgeHandle.html" title="Handle for a halfedge entity." alt="" coords="480,1677,664,1704">
+<area shape="rect" href="$structOpenMesh_1_1Subdivider_1_1Adaptive_1_1RuleHandleT.html" title="Handle template for adaptive composite subdividion rules." alt="" coords="408,1728,736,1755">
+<area shape="rect" href="$structOpenMesh_1_1VDPM_1_1VHierarchyNodeHandle.html" title="Handle for vertex hierarchy nodes." alt="" coords="436,1779,708,1805">
+<area shape="rect" href="$structOpenMesh_1_1VertexHandle.html" title="Handle for a vertex entity." alt="" coords="488,1829,656,1856">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; bool \&gt;" alt="" coords="1055,5,1279,32">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; bool \&gt;" alt="" coords="1055,56,1279,83">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; cog_t \&gt;" alt="" coords="1051,107,1283,133">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; Color \&gt;" alt="" coords="1052,157,1281,184">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; Color \&gt;" alt="" coords="1052,208,1281,235">
+<area shape="rect" href="$structOpenMesh_1_1EPropHandleT.html" title="OpenMesh::EPropHandleT\&lt; EdgeData \&gt;" alt="" coords="1039,259,1295,285">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; FaceData \&gt;" alt="" coords="1039,309,1295,336">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; float \&gt;" alt="" coords="1055,360,1279,387">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; Geometry::QuadricT\&lt; double \&gt; \&gt;" alt="" coords="977,411,1356,437">
+<area shape="rect" href="$structOpenMesh_1_1HPropHandleT.html" title="OpenMesh::HPropHandleT\&lt; HalfedgeData \&gt;" alt="" coords="1028,461,1305,488">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; HalfedgeHandle \&gt;" alt="" coords="1021,512,1312,539">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; int \&gt;" alt="" coords="1060,563,1273,589">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; level_t \&gt;" alt="" coords="1048,613,1285,640">

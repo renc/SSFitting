@@ -1,0 +1,9 @@
+<area shape="rect" href="$classOpenMesh_1_1Subdivider_1_1Uniform_1_1SubdividerT.html" title="OpenMesh::Subdivider::Uniform::SubdividerT\&lt; MeshType, RealType \&gt;" alt="" coords="1169,56,1599,83">
+<area shape="rect" href="$classOpenMesh_1_1Utils_1_1Noncopyable.html" title="This class demonstrates the non copyable idiom." alt="" coords="475,5,675,32">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; typename MeshType::Point \&gt;" alt="" coords="1204,107,1564,133">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; typename MeshType::Point \&gt;" alt="" coords="385,107,764,133">
+<area shape="rect" href="$classOpenMesh_1_1BaseHandle.html" title="Base class for all handle types." alt="" coords="5,157,168,184">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; size_t \&gt;" alt="" coords="447,157,703,184">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; std::pair\&lt; typename MeshType::VertexHandle, typename MeshType::VertexHandle \&gt; \&gt;" alt="" coords="219,208,931,235">
+<area shape="rect" href="$structOpenMesh_1_1MPropHandleT.html" title="OpenMesh::MPropHandleT\&lt; size_t \&gt;" alt="" coords="1265,157,1503,184">
+<area shape="rect" href="$structOpenMesh_1_1EPropHandleT.html" title="OpenMesh::EPropHandleT\&lt; std::pair\&lt; typename MeshType::VertexHandle, typename MeshType::VertexHandle \&gt; \&gt;" alt="" coords="1039,208,1729,235">

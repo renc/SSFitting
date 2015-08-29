@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VS2008OpenMesh">
+</Property><Property Name="Solution File" Value="D:\libraries\OpenMesh-2.0-RC3\VS2008OpenMesh.sln">
+</Property><Property Name="User Options File" Value="D:\libraries\OpenMesh-2.0-RC3\VS2008OpenMesh.suo">
+</Property><Property Name="Date" Value="2009年10月13日">
+</Property><Property Name="Time" Value="0:27">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="VS2008OpenMesh.sln" Description="Error creating backup file: D:\libraries\OpenMesh-2.0-RC3\VS2008OpenMesh.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="VS2008OpenMesh.suo" Description="File successfully backed up as D:\libraries\OpenMesh-2.0-RC3\VS2008OpenMesh.suo.old">
+</Event><Event ErrorLevel="0" Project="VS2008Core" Source="src\OpenMesh\Core\VS2008Core.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="VS2008Core" Source="src\OpenMesh\Core\VS2008Core.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VS2008Tools" Source="src\OpenMesh\Tools\VS2008Tools.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="VS2008Tools" Source="src\OpenMesh\Tools\VS2008Tools.vcproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="VS2008mconvert" Source="src\OpenMesh\Apps\mconvert\VS2008mconvert.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: D:\libraries\OpenMesh-2.0-RC3\src\OpenMesh\Apps\mconvert\VS2008mconvert.vcproj&#xA;Line: 10&#xA;Column: 2&#xA;Error Message:&#xA;'9,00' 违反了 '7.00 7,00 7.10 7,10 8.00 8,00' 的 enumeration 约束。&#xA;无法分析值为 '9,00' 的属性 'Version'。&#xA;&#xA;The file 'D:\libraries\OpenMesh-2.0-RC3\src\OpenMesh\Apps\mconvert\VS2008mconvert.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="VS2008mconvert" Source="src\OpenMesh\Apps\mconvert\VS2008mconvert.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="VS2008mconvert" Source="src\OpenMesh\Apps\mconvert\VS2008mconvert.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VS2008OpenMesh.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="VS2008OpenMesh.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

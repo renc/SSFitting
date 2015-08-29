@@ -1,0 +1,25 @@
+<area shape="rect" href="$classOpenMesh_1_1BaseHandle.html" title="Base class for all handle types." alt="" coords="5,385,168,412">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; bool \&gt;" alt="" coords="269,12,515,39">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; NormalType \&gt;" alt="" coords="247,88,537,115">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Point \&gt;" alt="" coords="267,151,517,177">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Scalar \&gt;" alt="" coords="263,208,521,235">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; T \&gt;" alt="" coords="277,284,507,311">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; typename Mesh::Point \&gt;" alt="" coords="216,335,568,361">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="Base property handle." alt="" coords="277,385,507,412">
+<area shape="rect" href="$structOpenMesh_1_1EdgeHandle.html" title="Handle for a edge entity." alt="" coords="311,436,473,463">
+<area shape="rect" href="$structOpenMesh_1_1FaceHandle.html" title="Handle for a face entity." alt="" coords="312,487,472,513">
+<area shape="rect" href="$structOpenMesh_1_1HalfedgeHandle.html" title="Handle for a halfedge entity." alt="" coords="300,537,484,564">
+<area shape="rect" href="$structOpenMesh_1_1Subdivider_1_1Adaptive_1_1RuleHandleT.html" title="Handle template for adaptive composite subdividion rules." alt="" coords="228,588,556,615">
+<area shape="rect" href="$structOpenMesh_1_1VDPM_1_1VHierarchyNodeHandle.html" title="Handle for vertex hierarchy nodes." alt="" coords="256,639,528,665">
+<area shape="rect" href="$structOpenMesh_1_1VertexHandle.html" title="Handle for a vertex entity." alt="" coords="308,689,476,716">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; bool \&gt;" alt="" coords="669,5,893,32">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; NormalType \&gt;" alt="" coords="647,56,916,83">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; Point \&gt;" alt="" coords="667,107,896,133">
+<area shape="rect" href="$structOpenMesh_1_1EPropHandleT.html" title="OpenMesh::EPropHandleT\&lt; Scalar \&gt;" alt="" coords="663,157,900,184">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; Scalar \&gt;" alt="" coords="663,208,900,235">
+<area shape="rect" href="$structOpenMesh_1_1EPropHandleT.html" title="Handle representing an edge property." alt="" coords="677,259,885,285">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="Handle representing a face property." alt="" coords="677,309,885,336">
+<area shape="rect" href="$structOpenMesh_1_1HPropHandleT.html" title="Handle representing a halfedge property." alt="" coords="677,360,885,387">
+<area shape="rect" href="$structOpenMesh_1_1MPropHandleT.html" title="Handle representing a mesh property." alt="" coords="676,411,887,437">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="Handle representing a vertex property." alt="" coords="677,461,885,488">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; typename Mesh::Point \&gt;" alt="" coords="616,512,947,539">

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="taucs">
+</Property><Property Name="Solution File" Value="D:\libraries\MeshCourse07-Code\taucs\taucs.sln">
+</Property><Property Name="User Options File" Value="D:\libraries\MeshCourse07-Code\taucs\taucs.suo">
+</Property><Property Name="Date" Value="2011年5月25日">
+</Property><Property Name="Time" Value="19:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="taucs.sln" Description="File successfully backed up as D:\libraries\MeshCourse07-Code\taucs\taucs.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="taucs.suo" Description="File successfully backed up as D:\libraries\MeshCourse07-Code\taucs\taucs.suo.old">
+</Event><Event ErrorLevel="0" Project="taucs" Source="taucs.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="taucs" Source="taucs.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="example" Source="example.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="example" Source="example.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="example1" Source="example1.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="example1" Source="example1.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="taucs.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="taucs.sln" Description="Converted">
+</Event></UpgradeLog>

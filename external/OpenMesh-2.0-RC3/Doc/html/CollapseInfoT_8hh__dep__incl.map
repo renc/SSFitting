@@ -1,0 +1,11 @@
+<area shape="rect" href="$ModBaseT_8hh.html" title="Base class for all decimation modules." alt="" coords="880,80,1168,107">
+<area shape="rect" href="$DecimaterT_8hh.html" title="src/OpenMesh/Tools/Decimater/DecimaterT.hh" alt="" coords="23,155,313,181">
+<area shape="rect" href="$ModNormalFlippingT_8hh.html" title="src/OpenMesh/Tools/Decimater/ModNormalFlippingT.hh" alt="" coords="337,155,681,181">
+<area shape="rect" href="$ModQuadricT_8hh.html" title="src/OpenMesh/Tools/Decimater/ModQuadricT.hh" alt="" coords="705,155,1009,181">
+<area shape="rect" href="$ModProgMeshT_8hh.html" title="src/OpenMesh/Tools/Decimater/ModProgMeshT.hh" alt="" coords="1033,155,1351,181">
+<area shape="rect" href="$ModIndependentSetsT_8hh_source.html" title="src/OpenMesh/Tools/Decimater/ModIndependentSetsT.hh" alt="" coords="1375,155,1729,181">
+<area shape="rect" href="$ModRoundnessT_8hh.html" title="src/OpenMesh/Tools/Decimater/ModRoundnessT.hh" alt="" coords="1753,155,2076,181">
+<area shape="rect" href="$DecimaterViewerWidget_8hh_source.html" title="src/OpenMesh/Apps/Decimating/DecimaterViewerWidget.hh" alt="" coords="320,229,688,256">
+<area shape="rect" href="$DecimaterT_8cc.html" title="src/OpenMesh/Tools/Decimater/DecimaterT.cc" alt="" coords="5,229,296,256">
+<area shape="rect" href="$ModQuadricT_8cc.html" title="Bodies of template member function." alt="" coords="712,229,1016,256">
+<area shape="rect" href="$ModProgMeshT_8cc.html" title="src/OpenMesh/Tools/Decimater/ModProgMeshT.cc" alt="" coords="1040,229,1357,256">

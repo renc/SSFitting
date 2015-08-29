@@ -1,0 +1,5 @@
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; bool \&gt;" alt="" coords="31,160,255,187">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; bool \&gt;" alt="" coords="5,83,251,109">
+<area shape="rect" href="$classOpenMesh_1_1BaseHandle.html" title="Base class for all handle types." alt="" coords="47,5,209,32">
+<area shape="rect" href="$classOpenMesh_1_1PolyMesh__ArrayKernelT.html" title="Polygonal mesh based on the ArrayKernel." alt="" coords="280,160,568,187">
+<area shape="rect" href="$classOpenMesh_1_1PolyMeshT.html" title="PolyMesh_ArrayKernel_GeneratorT\&lt;Traits\&gt;::Mesh" alt="" coords="275,83,589,109">

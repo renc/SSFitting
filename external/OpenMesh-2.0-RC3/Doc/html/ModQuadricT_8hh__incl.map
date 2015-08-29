@@ -1,0 +1,17 @@
+<area shape="rect" href="$ModBaseT_8hh.html" title="Base class for all decimation modules." alt="" coords="72,229,339,256">
+<area shape="rect" href="$Property_8hh_source.html" title="OpenMesh/Core/Utils/Property.hh" alt="" coords="608,80,824,107">
+<area shape="rect" href="$vector__cast_8hh_source.html" title="OpenMesh/Core/Utils/vector_cast.hh" alt="" coords="1728,155,1963,181">
+<area shape="rect" href="$QuadricT_8hh.html" title="OpenMesh/Core/Geometry/QuadricT.hh" alt="" coords="2197,229,2448,256">
+<area shape="rect" href="$Noncopyable_8hh_source.html" title="OpenMesh/Core/Utils/Noncopyable.hh" alt="" coords="1171,304,1413,331">
+<area shape="rect" href="$CollapseInfoT_8hh.html" title="Provides data class CollapseInfoT for storing all information about a halfedge collapse..." alt="" coords="5,304,288,331">
+<area shape="rect" href="$Handles_8hh_source.html" title="OpenMesh/Core/Mesh/Handles.hh" alt="" coords="1539,304,1757,331">
+<area shape="rect" href="$BaseProperty_8hh_source.html" title="OpenMesh/Core/Utils/BaseProperty.hh" alt="" coords="513,155,759,181">
+<area shape="rect" href="$StoreRestore_8hh_source.html" title="OpenMesh/Core/IO/StoreRestore.hh" alt="" coords="904,229,1136,256">
+<area shape="rect" href="$omstream_8hh.html" title="This file provides the streams omlog, omout, and omerr." alt="" coords="515,229,757,256">
+<area shape="rect" href="$SR__binary_8hh_source.html" title="OpenMesh/Core/IO/SR_binary.hh" alt="" coords="933,304,1147,331">
+<area shape="rect" href="$mostream_8hh_source.html" title="OpenMesh/Core/System/mostream.hh" alt="" coords="515,304,757,331">
+<area shape="rect" href="$vector__traits_8hh_source.html" title="OpenMesh/Core/Utils/vector_traits.hh" alt="" coords="1883,229,2123,256">
+<area shape="rect" href="$GenProg_8hh_source.html" title="OpenMesh/Core/Utils/GenProg.hh" alt="" coords="2016,304,2235,331">
+<area shape="rect" href="$VectorT_8hh_source.html" title="OpenMesh/Core/Geometry/VectorT.hh" alt="" coords="2357,304,2600,331">
+<area shape="rect" href="$VectorT__inc_8hh_source.html" title="VectorT_inc.hh" alt="" coords="2315,379,2421,405">
+<area shape="rect" href="$Core_2Geometry_2Config_8hh_source.html" title="Config.hh" alt="" coords="2259,304,2333,331">

@@ -1,0 +1,21 @@
+<area shape="rect" href="$classOpenMesh_1_1Kernel__OSG_1_1PropertyKernel.html" title="OpenMesh::Kernel_OSG::PropertyKernel\&lt; MeshItems::Face::IsTriangle \&gt;" alt="" coords="636,72,1084,99">
+<area shape="rect" href="$classOpenMesh_1_1BaseKernel.html" title="This class provides the basic property management like adding/removing properties..." alt="" coords="363,72,523,99">
+<area shape="rect" href="$classOpenMesh_1_1PropertyContainer.html" title="A a container for properties." alt="" coords="7,72,201,99">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; TexCoord \&gt;" alt="" coords="732,123,988,149">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; TexCoord \&gt;" alt="" coords="305,173,580,200">
+<area shape="rect" href="$classOpenMesh_1_1BaseHandle.html" title="Base class for all handle types." alt="" coords="23,455,185,481">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; StatusInfo \&gt;" alt="" coords="303,275,583,301">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Normal \&gt;" alt="" coords="312,427,573,453">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; T \&gt;" alt="" coords="328,477,557,504">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Point \&gt;" alt="" coords="317,528,568,555">
+<area shape="rect" href="$structOpenMesh_1_1BasePropHandleT.html" title="OpenMesh::BasePropHandleT\&lt; Color \&gt;" alt="" coords="317,579,568,605">
+<area shape="rect" href="$structOpenMesh_1_1EPropHandleT.html" title="OpenMesh::EPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="731,173,989,200">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="731,224,989,251">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="731,275,989,301">
+<area shape="rect" href="$structOpenMesh_1_1HPropHandleT.html" title="OpenMesh::HPropHandleT\&lt; StatusInfo \&gt;" alt="" coords="731,325,989,352">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; Normal \&gt;" alt="" coords="740,376,980,403">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; Normal \&gt;" alt="" coords="740,427,980,453">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="Handle representing a face property." alt="" coords="756,477,964,504">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; Point \&gt;" alt="" coords="745,528,975,555">
+<area shape="rect" href="$structOpenMesh_1_1FPropHandleT.html" title="OpenMesh::FPropHandleT\&lt; Color \&gt;" alt="" coords="745,579,975,605">
+<area shape="rect" href="$structOpenMesh_1_1VPropHandleT.html" title="OpenMesh::VPropHandleT\&lt; Color \&gt;" alt="" coords="745,629,975,656">

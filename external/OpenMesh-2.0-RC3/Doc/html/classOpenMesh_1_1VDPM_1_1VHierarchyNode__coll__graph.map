@@ -1,0 +1,6 @@
+<area shape="rect" href="$classOpenMesh_1_1VectorT.html" title="OpenMesh::VectorT\&lt; float, 3 \&gt;" alt="" coords="319,5,519,32">
+<area shape="rect" href="$structOpenMesh_1_1VectorDataT.html" title="OpenMesh::VectorDataT\&lt; float,N \&gt;" alt="" coords="5,5,232,32">
+<area shape="rect" href="$structOpenMesh_1_1VertexHandle.html" title="Handle for a vertex entity." alt="" coords="335,56,503,83">
+<area shape="rect" href="$classOpenMesh_1_1BaseHandle.html" title="Base class for all handle types." alt="" coords="37,76,200,103">
+<area shape="rect" href="$structOpenMesh_1_1VDPM_1_1VHierarchyNodeHandle.html" title="Handle for vertex hierarchy nodes." alt="" coords="283,107,555,133">
+<area shape="rect" href="$classOpenMesh_1_1VDPM_1_1VHierarchyNodeIndex.html" title="Index of vertex hierarchy node." alt="" coords="287,197,551,224">

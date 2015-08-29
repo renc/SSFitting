@@ -1,0 +1,32 @@
+TAUCS TEST LOG 
+============== 
+Win32          
+============== 
+=============== 
+= test_cilk_snmf = 
+= TEST FAILED (test_cilk_snmf) 
+=============== 
+=============== 
+= test_complex = 
+= TEST FAILED (test_complex) 
+=============== 
+=============== 
+= test_linsolve = 
+= TEST FAILED (test_linsolve) 
+=============== 
+=============== 
+= test_memory = 
+= TEST FAILED (test_memory) 
+=============== 
+=============== 
+= test_notimer = 
+= TEST FAILED (test_notimer) 
+=============== 
+=============== 
+= test_stack = 
+= TEST FAILED (test_stack) 
+=============== 
+=============== 
+= test_timer = 
+= TEST FAILED (test_timer) 
+=============== 
