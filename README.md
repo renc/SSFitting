@@ -1,18 +1,12 @@
 # SSFitting
 Subdivision Surface Fitting
 
+What?
+This is an old project back to 2007 at school, almost 8 years later it is built fixed and updated for references. 
 
-
-
-
-
-
-
-
-
-
-
-
+Steps: (almost listed at the Edit menu)
+decimate the mesh, build a progressive mesh during simplification, the pm is used during the refinement step. 
+resample and subd the simplified mesh, build the fitting equation, compute and get the initial control mesh, calc the fitting error. 
 
 ## Build
 ####Dependent libraries: 
